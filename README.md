@@ -1,9 +1,6 @@
 # EDA-on-FaceBook-Dataset
 Exploratory Data Analysis on Facebook Dataset
 
-```
-print("Hello World");
-```
 
 ### Introduction
 - Facebook, a social media platform giant was founded by a Harvard sophomore named Mark Zuckerberg on 4th Feb 2004. It is being used widely all across the world by people to exchange information,ideas,marketing and for buying/selling products also.
